@@ -26,7 +26,7 @@
 
 # 💻 기술 스택
 
-- OS: macOS
+- OS: `macOS`
 - 개발 도구: `R Studio`
 - 주요 기술: `R`
 
