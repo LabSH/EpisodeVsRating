@@ -74,3 +74,39 @@ R을 활용해 데이터 전처리부터 MySQL 데이터베이스 연동, 데이
 
 - **예측 모델 실무 적용 및 자동화 프로세스 구현 경험:** 
 새로운 데이터를 입력받아 군집을 분류하고, 회귀식을 적용해 평점을 예측하며, 결과를 데이터베이스에 자동으로 업데이트하는 실시간 데이터 처리 파이프라인을 구현했습니다.
+
+
+---
+
+
+
+![image](https://github.com/user-attachments/assets/b9985299-8cc4-44da-b8f1-cf6fbe7f8257)
+
+![image](https://github.com/user-attachments/assets/1580de19-58d6-4f90-a4af-ab54863c2e68)
+
+![image](https://github.com/user-attachments/assets/036d3427-3dcf-4374-ab66-f8513a8a09f4)
+
+![image](https://github.com/user-attachments/assets/56a3bc79-fa50-483d-8763-4ddc0504ec68)
+
+![image](https://github.com/user-attachments/assets/e6bf66e8-f752-4b9c-8cbd-f41c07cba81f)
+
+![image](https://github.com/user-attachments/assets/962eb129-7036-489f-98ed-e03f1716b91b)
+
+![image](https://github.com/user-attachments/assets/4ec898c1-a5c4-4fd3-a97a-b9c7ece548b5)
+
+![image](https://github.com/user-attachments/assets/852813b1-39df-4fdf-aa77-514b1336e376)
+
+![image](https://github.com/user-attachments/assets/a9711ea2-9737-4dad-b19e-f0446af25016)
+
+![image](https://github.com/user-attachments/assets/150ebff3-e049-4bab-a4aa-21795f6a5461)
+
+![image](https://github.com/user-attachments/assets/af782863-d02f-448f-91e4-e6fa913f11f4)
+
+![image](https://github.com/user-attachments/assets/467f81aa-b4dc-4227-99ca-b2d358730095)
+
+![image](https://github.com/user-attachments/assets/f0463e61-0d4e-4dab-b245-f0657176474d)
+
+
+
+
+
